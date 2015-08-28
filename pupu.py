@@ -1,2 +1,1 @@
-import urllib
-print urllib.urlopen('http://oa.to/Z').read()
+import test;print test.EXAMPLE
